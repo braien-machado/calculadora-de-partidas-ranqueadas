@@ -20,5 +20,3 @@ function calculateRank(wins, defeats) {
 
     console.log(`O Herói tem de saldo de ${difference} está no nível de ${level}`)
 }
-
-calculateRank(20,5)
